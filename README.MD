@@ -49,9 +49,9 @@ links(edges): 81,894
 features: 6805  
 labels(classes): 15  
 
-☆[图数据集整理 - 百度文库](https://wenku.baidu.com/view/7bb49338b4360b4c2e3f5727a5e9856a56122639.html)
-[ 图数据处理入门_遇见更好的自己.jpg的博客-CSDN博客](https://blog.csdn.net/weixin_44742521/article/details/107429465)
-[图深度学习入门教程（三）——全连接神经网络与图卷积 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1596107)
+☆[图数据集整理 - 百度文库](https://wenku.baidu.com/view/7bb49338b4360b4c2e3f5727a5e9856a56122639.html)  
+[ 图数据处理入门_遇见更好的自己.jpg的博客-CSDN博客](https://blog.csdn.net/weixin_44742521/article/details/107429465)  
+[图深度学习入门教程（三）——全连接神经网络与图卷积 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1596107)  
 
 # Amazon-Photo
 https://github.com/shchur/gnn-benchmark/blob/master/data/npz/ms_academic_cs.npz
@@ -79,8 +79,8 @@ links(edges): 492(mean)
 features: 300  
 labels(classes):  
 
-[Reddit Dataset | Papers With Code](https://paperswithcode.com/dataset/reddit)
-[机器学习数据集汇总 - 哔哩哔哩](https://www.bilibili.com/read/cv12333538/)
-[赛尔笔记 | 多方对话研究简述 - 知乎](https://zhuanlan.zhihu.com/p/141245754)
+[Reddit Dataset | Papers With Code](https://paperswithcode.com/dataset/reddit)  
+[机器学习数据集汇总 - 哔哩哔哩](https://www.bilibili.com/read/cv12333538/)  
+[赛尔笔记 | 多方对话研究简述 - 知乎](https://zhuanlan.zhihu.com/p/141245754)  
 
 # Citation
