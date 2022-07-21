@@ -1,9 +1,11 @@
 datasets for graph learning,···\
 
 ## Search Engines
+https://paperswithcode.com/  ***  
 https://datasetsearch.research.google.com/
 
 ## Common download address
+[Datasets | LINQS](https://linqs.org/datasets/)  
 https://linqs.soe.ucsc.edu/data  
 https://github.com/shchur/gnn-benchmark/
 
@@ -83,4 +85,33 @@ labels(classes):
 [机器学习数据集汇总 - 哔哩哔哩](https://www.bilibili.com/read/cv12333538/)  
 [赛尔笔记 | 多方对话研究简述 - 知乎](https://zhuanlan.zhihu.com/p/141245754)  
 
+# Amazon
+Julian McAuley, Rahul Pandey, and Jure Leskovec. 2015. Inferring networks of
+substitutable and complementary products. In KDD
+Anonymous Author(s), Weakly-supervised Graph Meta-learning for
+Few-shot Node Classification. CIKM 2022
+graph: 1  
+node: 42,318  
+links(edges): 43,556  
+features: 8,669   
+labels(classes): 6  
+
+# DBLP
+
+graph: 1  
+node: 40,672  
+links(edges): 288,270  
+features: 7,202   
+labels(classes): 
+
+# ogbn-arxiv
+
+graph: 1  
+node: 169,343  
+links(edges): 1,166,243  
+features: 8,669   
+labels(classes): 
+
 # Citation
+
+
