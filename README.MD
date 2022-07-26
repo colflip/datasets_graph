@@ -1,7 +1,7 @@
-datasets for graph learning,···\
+datasets for graph learning, ···\
 
 ## Search Engines
-https://paperswithcode.com/  ***  
+https://paperswithcode.com/   
 https://datasetsearch.research.google.com/
 
 ## Common download address
