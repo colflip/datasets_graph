@@ -5,7 +5,7 @@ https://paperswithcode.com/
 https://datasetsearch.research.google.com/
 
 ## Common download address
-[Datasets | LINQS](https://linqs.org/datasets/)  
+https://linqs.org/datasets/  
 https://linqs.soe.ucsc.edu/data  
 https://github.com/shchur/gnn-benchmark/
 
